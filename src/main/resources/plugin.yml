@@ -1,0 +1,7 @@
+name: Stats-Fix
+version: ${version}
+main: io.github.wesjd.statsfix.StatsFix
+depend: [Stats]
+author: WesJD
+description: Fixes stats with silk touch picks
+website: http://wesjd.github.io
